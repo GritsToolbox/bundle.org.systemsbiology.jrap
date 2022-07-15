@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Jrap
+Bundle-SymbolicName: org.systemsbiology.jrap
+Bundle-Version: 1.0.0
+Bundle-ClassPath: GRITSJrapSTAX.-0.1-b51.jar
+Export-Package: org.systemsbiology.jrap.grits.stax
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Require-Bundle: org.apache;bundle-version="1.0.0"
